@@ -1,0 +1,4 @@
+Works like this.....
+
+www.shitsite.com/apps/twitch?id=(twitch_username)
+ex.) www.shitsite.com/apps/twitch?id=twitchprime

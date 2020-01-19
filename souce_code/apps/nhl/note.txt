@@ -1,0 +1,6 @@
+Works like this.....
+
+www.shitsite.com/apps/nhl?id=(team_name_capital_first_letter)
+ex.) www.shitsite.com/apps/nhl?id=EdmontonOilers
+
+Iframe set up to use streams from some site off of reddit - that's where to get the team names from. Use another sites iframes by editing the index.php file.

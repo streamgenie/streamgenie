@@ -1,0 +1,4 @@
+Works like this.....
+
+www.shitsite.com/apps/youtube?id=(youtube_video_id_)
+ex.) www.shitsite.com/apps/youtube?id=TU5DoLmv--A

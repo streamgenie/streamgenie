@@ -1,0 +1,61 @@
+
+<html>
+<head>
+	<title>Flash Player</title>
+	<style>
+body, table, div, p
+{
+	background-color: #262626;
+	margin: 0 0 0 0;
+	color: White;
+	text-align: center;
+	font-family: Tahoma, Verdana, Arial;
+	font-size: 10pt;
+	line-height: 20pt;
+	overflow: hidden;
+}
+</style>
+	<script language="javascript" src="AC_RunActiveContent.js"></script>
+</head>
+<body>
+	<br><br>
+	<br><br>
+	<br><br>
+	<br><br>
+	Please click the button below to enable <b>Adobe Flash Player</b>.<br>
+	If prompted with an Allow/Block popup, please select <b>Allow</b>.<br>
+	You will only have to do this once per browser session.<br><br>
+	<script language="javascript">
+		function CloseWindow()
+		{
+			//alert('Flash Player Enabled. Please re-launch the game.');
+			setTimeout(window.close, 2000);
+		}
+
+
+		AC_FL_RunContent(
+			'codebase', '//download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,65,0',
+			'width', '500',
+			'height', '100',
+			'src', 'noflash',
+			'quality', 'high',
+			'pluginspage', '//www.macromedia.com/go/getflashplayer',
+			'align', 'middle',
+			'play', 'true',
+			'loop', 'false',
+			'scale', 'showall',
+			'wmode', 'window',
+			'devicefont', 'false',
+			'id', 'FlashMovie',
+			'bgcolor', '#262626',
+			'name', 'FlashMovie',
+			'menu', 'false',
+			'allowScriptAccess','always',
+			'allowFullScreen','true',
+			'movie', 'noflash',
+			'salign', '',
+			'flashvars', ''
+			); //end AC code
+	</script>
+</body>
+</html>

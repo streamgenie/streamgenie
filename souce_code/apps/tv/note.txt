@@ -1,0 +1,4 @@
+Various streams. Works by entering in a file name from the "Channels" folder.
+
+www.shitsite.com/apps/tv?id=(file_name)
+ex.) www.shitsite.com/apps/tv?id=fox

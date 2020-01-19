@@ -1,0 +1,4 @@
+Various streams. Works by entering in a file name from the "streams" folder.
+
+www.shitsite.com/apps/nfl?id=(file_name)
+ex.) www.shitsite.com/apps/nfl?id=1

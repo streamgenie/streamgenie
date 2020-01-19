@@ -1,0 +1,6 @@
+Works like this.....
+
+www.shitsite.com/apps/nba?id=(team_name)
+ex.) www.shitsite.com/apps/nba?id=celtics
+
+Iframe set up to use streams from www.yoursports.stream - that's where to get the team names from. Use another sites iframes by editing the index.php file.

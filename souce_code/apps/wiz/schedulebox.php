@@ -1,0 +1,1 @@
+<iframe src="schedule.php" name="schedulebox" id="sbox" width="100%" height="100%" frameborder="0" scrolling="yes" allowfullscreen="yes"></iframe>

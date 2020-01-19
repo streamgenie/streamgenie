@@ -1,0 +1,4 @@
+For testing m3u8 streams.
+
+www.shitsite.com/apps/source?file=(m3u8_file)
+ex.) www.shitsite.com/apps/source?file=https://buzzr.global.ssl.fastly.net/out/u/buzzr_hls.m3u8
